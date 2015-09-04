@@ -1,0 +1,2 @@
+# SageCRMCollectionsManager
+This is the Sage CRM Collections Manager originally developed by Andy Blackmore, Sage CRM Dublin R&amp;D and Sage NA.  This product has been given to Rob Lawson &amp; Fran Meggs.  Who are now opening this product as an open source code solution.  Which means that any and all code are free to use at your own risk.  We only ask that as part of the on-going growth and support of this product that any and all enhancements you make for your client be contributed to this open source project so that the product will continue to grow and mature.  
